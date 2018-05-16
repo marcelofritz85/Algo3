@@ -20,7 +20,12 @@ public class Main {
 		
 		
 		
-		//lista.sort(new CompararElementosLista());
+		lista.sort(new CompararElementosLista());
+		
+		/*for(int i:vetor){
+            System.out.print(i);
+            System.out.print(", ");
+        }*/
 		
 		
 		
